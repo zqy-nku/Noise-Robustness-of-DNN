@@ -6,7 +6,7 @@
 3. torchvision
 4. PIL
 5. numpy
-6. matplotlib
+6. openCV
 
 ## Example
 ```
