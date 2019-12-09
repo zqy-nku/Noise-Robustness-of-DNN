@@ -7,12 +7,14 @@
 4. PIL
 5. numpy
 6. openCV
+7. matplotlib
+8. mxnet
+9. gluoncv
 
 ## Example
 ```
-python classify.py train
-
-python classify.py test xxx.png
+python3 classify.py test xxx.jpg 
+python3 pretrain.py --model cifar_resnet110_v1 --input-pic xxx.jpg
 ```
 
 
