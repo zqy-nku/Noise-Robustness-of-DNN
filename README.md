@@ -16,5 +16,6 @@ python classify.py test xxx.png
 ```
 
 
-*Note: Final project of COM18737 Engineering Safe Software Systems
-       Reference: https://github.com/andac-demir/DNNAdversarial*
+*Note: Final project of COM18737 Engineering Safe Software Systems*
+
+*Reference: https://github.com/andac-demir/DNNAdversarial*
