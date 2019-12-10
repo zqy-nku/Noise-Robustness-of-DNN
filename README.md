@@ -57,13 +57,18 @@ https://docs.google.com/document/d/1EYGEnkVp9d0hJeXhNyoXfPwccQA8VdWh-ea8QcMgZgs/
 
 ## Reference
 [1] Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsky, 2009.
+
 [2] Gilmer & Hendrycks, "A Discussion of 'Adversarial Examples Are Not Bugs, They Are Features':
 Adversarial Example Researchers Need to Expand What is Meant by 'Robustness'", Distill, 2019.
+
 [3] Gong, Yuan & Poellabauer, Christian. (2018). Protecting Voice Controlled Systems Using Sound
 Source Identification Based on Acoustic Cues.
+
 [4] Junko Yoshida. (2019). “AI Tradeoff: Accuracy or Robustness?” [Web]
 https://www.eetimes.com/ai-tradeoff-accuracy-or-robustness/
+
 [5] DNN Adversaria: https://github.com/andac-demir/DNNAdversarial/blob/master/CNNclassify.py
+
 [6] https://gluon-cv.mxnet.io/build/examples_classification/demo_cifar10.html
 
 
