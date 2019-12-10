@@ -27,3 +27,12 @@ https://docs.google.com/spreadsheets/d/1MKY9RiGvFBqiAYkXDmvK2R-DT_n-Xkut7Zy9N3oK
 
 ## Brief Report
 https://docs.google.com/document/d/1EYGEnkVp9d0hJeXhNyoXfPwccQA8VdWh-ea8QcMgZgs/edit
+
+##Reference
+● Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsky, 2009.
+● Gilmer & Hendrycks, "A Discussion of 'Adversarial Examples Are Not Bugs, They Are Features':
+Adversarial Example Researchers Need to Expand What is Meant by 'Robustness'", Distill, 2019.
+● Gong, Yuan & Poellabauer, Christian. (2018). Protecting Voice Controlled Systems Using Sound
+Source Identification Based on Acoustic Cues.
+● Junko Yoshida. (2019). “AI Tradeoff: Accuracy or Robustness?” [Web]https://www.eetimes.com/ai-tradeoff-accuracy-or-robustness/
+● DNN Adversarial: https://github.com/andac-demir/DNNAdversarial
